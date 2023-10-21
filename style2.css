@@ -1,0 +1,13 @@
+input,label,select,legend{
+    margin-bottom: 20px;
+}
+html{
+    background-color: lightgrey;
+}
+input{
+    border-style:double;
+    border-color: black;
+    border-radius: 2px;
+    border-radius: 100px;
+}
+
